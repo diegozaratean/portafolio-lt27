@@ -1,7 +1,6 @@
 Las tecnologias que manejo son:
 
 html
-css
 bootstrap
 
 linea de comandos
