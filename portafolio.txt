@@ -6,3 +6,5 @@ bootstrap
 linea de comandos
 git
 github
+
+commits
