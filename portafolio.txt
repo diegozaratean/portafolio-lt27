@@ -2,4 +2,6 @@ Las tecnologias que manejo son:
 
 html
 css
-js
+bootstrap
+
+linea de comandos
